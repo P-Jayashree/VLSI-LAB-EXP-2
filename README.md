@@ -1,11 +1,10 @@
-SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
+# SIMULATION AND IMPLEMENTATION OF COMBINATIONAL LOGIC CIRCUITS
 
 AIM: 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 APPARATUS REQUIRED:
-Xilinx 14.7
-Spartan6 FPGA
+VIVADO 2023.1
 
 **LOGIC DIAGRAM**
 
@@ -144,14 +143,29 @@ endmodule
 OUTPUT WAVEFORM
 # Multiplexer
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/0a18a91c-f77c-4c84-bca9-f7f63241ca4c)
+# RTL DESIGN
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/4a251899-64f7-4b1f-be82-a5537b645de7)
+
 # Magnitude Comparator
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/9ca99ac1-5766-4e75-b447-7a19b4069269)
+# RTL DESIGN
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/12071d0d-3b76-4dc1-a282-7adba389ddf8)
+
 # Demultiplier
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/2a463aa5-9baf-4790-805b-19b7e6415b14)
+# RTL DESIGN
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/a529735b-200f-4a0f-8dc7-c025672fbb44)
+
 # 8 to 3 Encoder
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/20489d60-e234-47b6-abbc-29244e0bddcf)
+# RTL DESIGN
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/8eacac8b-5fc6-4f2e-8381-2f90244bb7d7)
+
 # 3 to 8 Decoder
 ![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/7df6ca96-71cd-491f-a07d-bae8ce954118)
+# RTL DESIGN
+![image](https://github.com/P-Jayashree/VLSI-LAB-EXP-2/assets/161108372/8170418a-5530-4b65-821c-b3e6d706a5d9)
+
 RESULT
 Thus To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified successfully.
 
